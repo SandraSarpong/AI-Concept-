@@ -260,7 +260,7 @@ The most dangerous AI user is the one who doesn't know what the tool can't do. U
 
 ## 📚 Further Reading
 You can check out my blog post on Medium 
-- How machines learn
+- [How machines learn](https://medium.com/@maameyaasarp/how-machines-learn-a-plain-english-guide-to-one-of-techs-most-misunderstood-concepts-ac456d6b7dcd)
 - The art of prompt engineering
 
 
